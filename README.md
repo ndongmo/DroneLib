@@ -28,6 +28,34 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
   In case of error, you can consult the generated log file.
   The source code has been compiled as I said earlier with Visual studio 2013 with window socket, ffmpeg, OpenCV and SDL libraries. So,   you should link these libraries before compiling. For any further questions, please feel free to ask!
   
+  <table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_1.jpg" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/20.png" />
+    </td>
+    <td>
+     <img src="https://github.com/ndongmo/DroneLib/blob/master/48.png" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/837.png" />
+    </td>
+  </tr>
+ <tr>
+  <td> 
+   <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_2.jpg" />
+  </td>
+  <td>
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/1065.png" />
+    </td>
+  <td>
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/1166.png" />
+    </td>
+ </tr>
+ </table>
+  
   ## Authors
 
 * F. Ndongmo Silatsa
