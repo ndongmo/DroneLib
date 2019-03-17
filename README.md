@@ -30,7 +30,7 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
   
   <table style="width:100%">
   <tr>
-    <td>
+    <td style="width:10%">
       <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_1.jpg" width="10%" height="300" />
     </td>
     <td>
@@ -44,7 +44,7 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
     </td>
   </tr>
  <tr>
-  <td> 
+  <td style="width:10%"> 
    <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_2.jpg" width="10%" height="300" />
   </td>
   <td>
