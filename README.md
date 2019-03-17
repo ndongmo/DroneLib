@@ -31,22 +31,25 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
   <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_1.jpg" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_1.jpg" width="40%" height="300" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/20.png" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/20.png" width="20%" height="300" />
     </td>
     <td>
-     <img src="https://github.com/ndongmo/DroneLib/blob/master/48.png" />
+     <img src="https://github.com/ndongmo/DroneLib/blob/master/48.png" width="20%" height="300" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/837.png" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/837.png" width="20%" height="300" />
     </td>
   </tr>
  <tr>
   <td> 
    <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_2.jpg" />
   </td>
+  <td>
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/956.png" />
+    </td>
   <td>
       <img src="https://github.com/ndongmo/DroneLib/blob/master/1065.png" />
     </td>
