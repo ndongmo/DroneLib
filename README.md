@@ -1,6 +1,6 @@
 # DroneLib
 DroneLib is a C++ (OpenCV + FFMPEG + SDL) Jumping sumo drone library for desktop. This library doesn't use the ARDrone SDK and only support command for AR.DRONE 2.0. It can be adapted theoretically with other kind of drone (I tested only on Jumping sumo) by adding specific commands. The source provided here has been built in visual studio 2013 (X86). This library provides a lightweight implementation of common protocols of ARDrone 2.0, so it can be a good start for a drone-based project!
-Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y).
+Please, refer to this video on my [youtube channel](https://youtu.be/3w6nFQjz3sc).
 
 ## Features
 
