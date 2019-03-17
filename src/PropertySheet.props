@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(C_INCLUDES);$(C_INCLUDES)/ffmpeg;$(IncludePath)</IncludePath>
+    <LibraryPath>$(C_LIBS)/DEBUG;$(LibraryPath)</LibraryPath>
+    <LocalDebuggerEnvironment>PATH=%PATH%;$(C_BIN)\DEBUG$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(C_INCLUDES)/ffmpeg;$(C_INCLUDES);$(IncludePath)</IncludePath>
+    <LibraryPath>$(C_LIBS)/RELEASE;$(LibraryPath)</LibraryPath>
+    <LocalDebuggerEnvironment>PATH=%PATH%;$(C_BIN)\RELEASE$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup>
+    <_PropertySheetDisplayName>PropertySheet</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalOptions>-D__STDC_CONSTANT_MACROS </AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>ws2_32.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;opencv_highgui2413d.lib;opencv_core2413d.lib;opencv_imgproc2413d.lib;opencv_objdetect2413d.lib;SDL2.lib;SDL2main.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <AdditionalOptions>/NODEFAULTLIB:msvcrt.lib %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Link>
+      <AdditionalDependencies>ws2_32.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;opencv_highgui2413.lib;opencv_core2413.lib;opencv_imgproc2413.lib;opencv_objdetect2413.lib;SDL2.lib;SDL2main.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
