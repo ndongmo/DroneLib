@@ -14,7 +14,7 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
   
   Here is the class diagram describing the library architecture.
   
-  <img src="https://github.com/ndongmo/DroneLib/blob/master/class_diag.jpg" align="left" width="300" height="400" alt="Library architecture">
+  <img src="https://github.com/ndongmo/DroneLib/blob/master/class_diag.jpg" align="left" width="600" height="400" alt="Library architecture">
   
   ## How to use
   
