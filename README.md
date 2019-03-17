@@ -16,6 +16,7 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
   
   <img src="https://github.com/ndongmo/DroneLib/blob/master/class_diag.jpg" align="left" width="100%" height="400" alt="Library architecture">
   
+  
   ## How to use
   
   Fist, you can try the executable in the setup directory. the DLL inside are those of X86 system. The default parameters are :
