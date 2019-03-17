@@ -45,16 +45,16 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
   </tr>
  <tr>
   <td> 
-   <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_2.jpg" />
+   <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_2.jpg" width="10%" height="300" />
   </td>
   <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/956.png" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/956.png" width="30%" height="300" />
     </td>
   <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/1065.png" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/1065.png" width="30%" height="300" />
     </td>
   <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/1166.png" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/1166.png" width="30%" height="300" />
     </td>
  </tr>
  </table>
