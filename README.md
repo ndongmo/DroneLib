@@ -30,31 +30,31 @@ Please, refer to this video on my [youtube channel](https://youtu.be/GuC5tC1gA5Y
   
   <table style="width:100%">
   <tr>
-    <td style="width:10%">
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_1.jpg" width="10%" height="300" />
+    <td>
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_1.jpg"  height="300" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/20.png" width="30%" height="300" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/20.png"  height="300" />
     </td>
     <td>
-     <img src="https://github.com/ndongmo/DroneLib/blob/master/48.png" width="30%" height="300" />
+     <img src="https://github.com/ndongmo/DroneLib/blob/master/48.png"  height="300" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/837.png" width="30%" height="300" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/837.png" height="300" />
     </td>
   </tr>
  <tr>
   <td style="width:10%"> 
-   <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_2.jpg" width="10%" height="300" />
+   <img src="https://github.com/ndongmo/DroneLib/blob/master/IMG_2.jpg"  height="300" />
   </td>
   <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/956.png" width="30%" height="300" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/956.png"  height="300" />
     </td>
   <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/1065.png" width="30%" height="300" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/1065.png"  height="300" />
     </td>
   <td>
-      <img src="https://github.com/ndongmo/DroneLib/blob/master/1166.png" width="30%" height="300" />
+      <img src="https://github.com/ndongmo/DroneLib/blob/master/1166.png"  height="300" />
     </td>
  </tr>
  </table>
